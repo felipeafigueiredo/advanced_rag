@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "tipo": "termo-exato",
+    "pergunta": "Qual é a carga horária mínima de componentes curriculares optativos em uma estrutura curricular da UFRN?",
+    "resposta": "Pelo menos 10% da carga horária total da estrutura curricular. Em cursos com mais de 4.000 horas, o mínimo é de 400 horas.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 30, caput e §1º"}
+    ]
+  },
+  {
+    "id": 2,
+    "tipo": "termo-exato",
+    "pergunta": "Quais são os limites mínimo e máximo da carga horária complementar de uma estrutura curricular?",
+    "resposta": "Entre 5% e 20% da carga horária total. Em cursos com mais de 4.000 horas, a carga horária complementar mínima é de 200 horas.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 31, §2º e §3º"}
+    ]
+  },
+  {
+    "id": 3,
+    "tipo": "multi-chunk",
+    "pergunta": "O estudante que não cumprir os 10% de carga horária de extensão pode concluir o curso?",
+    "resposta": "Em regra, sim: o descumprimento do mínimo de 10% em ações de extensão não impede a conclusão do curso. A exceção ocorre quando a carga horária de extensão estiver prevista em componente curricular obrigatório.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 35, caput, §2º e §3º"}
+    ]
+  },
+  {
+    "id": 4,
+    "tipo": "multi-chunk",
+    "pergunta": "Qual é a diferença entre cancelamento de matrícula e trancamento de matrícula em um componente curricular?",
+    "resposta": "Cancelamento de matrícula é a desvinculação compulsória do estudante da turma do componente curricular em que está matriculado. Trancamento de matrícula é a desvinculação voluntária do estudante desse componente.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "arts. 223 e 224, caput"}
+    ]
+  },
+  {
+    "id": 5,
+    "tipo": "simples",
+    "pergunta": "O que são vagas residuais e qual situação é expressamente excluída dessa definição?",
+    "resposta": "São as vagas geradas por cancelamentos de programa e as vagas não ocupadas no processo seletivo da forma principal de ingresso no curso. Não são consideradas vagas residuais as resultantes de cancelamentos de estudantes no primeiro período letivo do curso que foram repostas com candidatos do cadastro de reserva.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 2º, I, II e parágrafo único"},
+      {"documento": "regulamento_graduacao", "artigos": "art. 158, §1º e §4º"}
+    ]
+  },
+  {
+    "id": 6,
+    "tipo": "simples",
+    "pergunta": "Um estudante com vínculo ativo em curso de graduação da UFRN pode concorrer a vaga residual no mesmo curso?",
+    "resposta": "Não. Nessa condição, o estudante só pode se inscrever para curso distinto daquele de origem.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 11, II e §2º"},
+      {"documento": "regulamento_graduacao", "artigos": "art. 139, §1º"}
+    ]
+  },
+  {
+    "id": 7,
+    "tipo": "termo-exato",
+    "pergunta": "Quais notas mínimas no ENEM evitam a eliminação no processo seletivo de reocupação de vagas residuais?",
+    "resposta": "Pelo menos 450 pontos em cada área de conhecimento e pelo menos 500 pontos na redação. Nota inferior a isso em qualquer uma dessas provas elimina o candidato.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 14, I e II"}
+    ]
+  },
+  {
+    "id": 8,
+    "tipo": "multi-chunk",
+    "pergunta": "Para um curso da área Tecnológica II, qual é o peso da prova de Matemática do ENEM e como a nota do ENEM entra na nota final da seleção de reocupação de vagas residuais?",
+    "resposta": "O peso de Matemática na área Tecnológica II é 3,0 (Anexo II). A nota do ENEM é a média ponderada das notas das provas (áreas de conhecimento e redação) segundo esses pesos. A nota final é a média ponderada entre a avaliação do resultado do ENEM, com peso 6, e a avaliação institucional e acadêmica, com peso 4, com arredondamento em 4 casas decimais.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 18, caput e parágrafo único; Anexo II"}
+    ]
+  },
+  {
+    "id": 9,
+    "tipo": "simples",
+    "pergunta": "Qual é o prazo máximo de embargo de um TCC e quem o define?",
+    "resposta": "Até 3 anos, contados da data do depósito. O período é definido pelo discente e pelo orientador e deve ser informado no momento do depósito.",
+    "fontes": [
+      {"documento": "in_08_2023", "artigos": "art. 11, §1º e §2º"}
+    ]
+  },
+  {
+    "id": 10,
+    "tipo": "simples",
+    "pergunta": "A conclusão do fluxo de depósito do TCC é necessária para colar grau?",
+    "resposta": "Sim. O estudante só pode colar grau depois de concluir todas as etapas do fluxo de depósito.",
+    "fontes": [
+      {"documento": "in_08_2023", "artigos": "art. 12"},
+      {"documento": "regulamento_graduacao", "artigos": "art. 82, parágrafo único"}
+    ]
+  },
+  {
+    "id": 11,
+    "tipo": "simples",
+    "pergunta": "A quem se aplica a revalidação de diploma regulamentada pela IN 11/2026?",
+    "resposta": "Aos participantes aprovados nas duas etapas do REVALIDA, com diploma de graduação em Medicina expedido por instituição de educação superior estrangeira, que indicaram a UFRN como instituição revalidadora.",
+    "fontes": [
+      {"documento": "in_11_2026", "artigos": "art. 1º e art. 3º, II"}
+    ]
+  },
+  {
+    "id": 12,
+    "tipo": "multi-chunk",
+    "pergunta": "Como a documentação para a revalidação de diploma estrangeiro (REVALIDA) deve ser entregue e qual é o prazo padrão de análise e registro?",
+    "resposta": "Em formato PDF, em arquivo único, na sequência dos incisos do art. 3º. A PROGRAD tem até 30 dias para analisar a documentação e registrar o diploma, prorrogáveis uma única vez por igual período, com justificativa. O prazo conta a partir do cadastramento do processo pela Coordenadoria de Atendimento da PROGRAD.",
+    "fontes": [
+      {"documento": "in_11_2026", "artigos": "art. 3º, §1º; art. 6º, caput, §2º e §3º"}
+    ]
+  },
+  {
+    "id": 13,
+    "tipo": "multi-chunk",
+    "pergunta": "Quais são as regras do trancamento de matrícula em componente curricular quanto a prazo, número de vezes e efetivação?",
+    "resposta": "O prazo máximo é a data em que se cumpre 1/3 da carga horária do componente (disciplina ou bloco; nas atividades que formam turma, considera-se apenas a carga horária ministrada em aulas). Só é permitido trancar uma única vez no mesmo componente. O trancamento só é efetivado 2 dias após a solicitação, e o estudante pode desistir nesse período. Atividades que não formam turma não podem ser trancadas.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 224, §1º a §3º; art. 225; art. 226"}
+    ]
+  },
+  {
+    "id": 14,
+    "tipo": "multi-chunk",
+    "pergunta": "Um estudante de disciplina presencial obteve média parcial 5,5 e tem 80% de frequência. Ele é aprovado direto? Tem direito à avaliação de reposição? O que precisa obter nela para ser aprovado?",
+    "resposta": "Não é aprovado direto: a aprovação exige média parcial igual ou superior a 6,0 e rendimento igual ou superior a 4,0 em todas as unidades. Tem direito à reposição, pois a assiduidade é satisfeita (mínimo de 75%) e a média parcial é igual ou superior a 3,0. A nota da reposição substitui a menor nota entre as unidades. Será aprovado se a média final for igual ou superior a 5,0, com rendimento igual ou superior a 4,0 na avaliação de reposição.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "arts. 114, 115, 116, 117 e 120"}
+    ]
+  },
+  {
+    "id": 15,
+    "tipo": "entre-documentos",
+    "pergunta": "Cancelamentos de curso por decurso de prazo geram vagas residuais?",
+    "resposta": "Não. A Resolução 013/2022 define vagas residuais como as geradas por cancelamentos de programa, nos termos do Regulamento dos Cursos de Graduação, e o Regulamento estabelece que os cancelamentos de curso por decurso de prazo não geram vagas residuais.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 2º, I"},
+      {"documento": "regulamento_graduacao", "artigos": "art. 158, §1º e §2º"}
+    ]
+  },
+  {
+    "id": 16,
+    "tipo": "entre-documentos",
+    "pergunta": "Quem deve depositar o TCC e até quando esse depósito precisa ser feito?",
+    "resposta": "O próprio estudante, por autoarquivamento no Repositório Institucional. O depósito deve ocorrer até 10 dias antes do prazo para a consolidação final das atividades acadêmicas, previsto no Calendário Universitário.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 82, caput"},
+      {"documento": "in_08_2023", "artigos": "art. 2º; art. 7º, §1º"}
+    ]
+  },
+  {
+    "id": 17,
+    "tipo": "entre-documentos",
+    "pergunta": "Como o estudante passa a ter o status 'FORMADO' exigido para a colação de grau individual e quais são os requisitos para solicitá-la?",
+    "resposta": "O estudante passa ao status de formado ao integralizar o curso, isto é, cumprir a carga horária mínima e os componentes curriculares exigidos no Projeto Pedagógico do Curso, ficando apto a colar grau. Para solicitar a colação de grau individual, deve estar com o status 'FORMADO' no histórico escolar e quite com os sistemas de bibliotecas da UFRN.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 39, caput e §2º"},
+      {"documento": "in_05_2022", "artigos": "art. 3º, I e II"}
+    ]
+  },
+  {
+    "id": 18,
+    "tipo": "entre-documentos",
+    "pergunta": "Em que situações a colação de grau ocorre em sessão simples e quais são as formas de colação de grau individual?",
+    "resposta": "Segundo o Regulamento, a sessão simples é realizada de forma individual para atender situação extraordinária do formando ou quando não é possível a sessão solene, e deve ser justificada e comprovada à PROGRAD. Quando o curso tem menos de 5 concluintes, a colação deve ser em sessão simples, exceto se for sessão solene coletiva. Pela IN 5/2022, a colação de grau individual ocorre sob a forma de sessão simples, quando couber, e pode ser por sessão simples presencial, sessão simples virtual ou ato administrativo do Reitor.",
+    "fontes": [
+      {"documento": "regulamento_graduacao", "artigos": "art. 238, §3º; art. 241, §2º; art. 244"},
+      {"documento": "in_05_2022", "artigos": "art. 1º, parágrafo único; art. 2º"}
+    ]
+  },
+  {
+    "id": 19,
+    "tipo": "entre-documentos",
+    "pergunta": "Um ex-estudante da UFRN que teve o vínculo cancelado por abandono de curso pode concorrer a vaga residual? Em que situação se configura o abandono?",
+    "resposta": "Sim, desde que o cancelamento tenha ocorrido nos 10 períodos letivos anteriores ao do período em que for realizado o processo seletivo. O abandono de curso ocorre quando o estudante não efetiva a matrícula em componentes curriculares ou quando não integraliza nenhuma carga horária em 2 períodos letivos regulares consecutivos.",
+    "fontes": [
+      {"documento": "res_013_2022", "artigos": "art. 11, IV"},
+      {"documento": "regulamento_graduacao", "artigos": "art. 139, III; art. 209, parágrafo único; art. 297"}
+    ]
+  },
+  {
+    "id": 20,
+    "tipo": "termo-exato",
+    "pergunta": "Qual é o prazo máximo para a DiRED analisar a documentação e registrar diplomas digitais expedidos por outras IES do Rio Grande do Norte, e esse prazo pode ser prorrogado?",
+    "resposta": "60 dias, prorrogáveis uma única vez por igual período, desde que justificado. A contagem começa a partir da ciência do recebimento, pela UFRN, dos documentos relativos aos diplomas digitais.",
+    "fontes": [
+      {"documento": "in_10_2025", "artigos": "art. 12, caput, §2º e §3º"}
+    ]
+  }
+]
